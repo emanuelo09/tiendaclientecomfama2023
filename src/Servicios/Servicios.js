@@ -1,8 +1,10 @@
 import './Servicios.css'
 export function Servicios(){
+
     return(
 
         <>
+
             <section class="container-fluid my-5">
                 <div class="row text-center justify-content-around">
                     <div class="col-12 col-md-3 fondo">
@@ -19,8 +21,10 @@ export function Servicios(){
                     </div>
                 </div>
             </section>
+
         </>
 
 
     )
+    
 }
